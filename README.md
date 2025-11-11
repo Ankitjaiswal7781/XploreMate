@@ -1,6 +1,12 @@
 # 🌍✨ XploreMate — Your Ultimate Travel Companion
 
-![XploreMate Banner](https://github.com/Ankitjaiswal7781/XploreMate/assets/banner.png)
+### 🏠 Home Page
+| ![Home Page 1](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Home%20Page%201.png) | ![Home Page 2](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Home%20Page%202.png) |
+|:--:|:--:|
+| **Home Page 1** | **Home Page 2** |
+
+---
+
 
 > **XploreMate** is a modern full-stack travel platform that connects **travelers** with **local guides** to make every journey effortless, personalized, and unforgettable.  
 > Built with ❤️ by Team Xplore (4 members) as a **College Major Project** — blending innovation, AI, and real-world travel assistance.
