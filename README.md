@@ -105,10 +105,6 @@ It offers a seamless experience for:
 
 ---
 
-## ⚙️ Project Architecture
-
----
-
 ## 🗺️ Modules & Highlights
 
 ### 👤 User Module
