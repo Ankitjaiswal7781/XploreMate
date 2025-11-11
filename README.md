@@ -9,7 +9,7 @@
 
 
 > **XploreMate** is a modern full-stack travel platform that connects **travelers** with **local guides** to make every journey effortless, personalized, and unforgettable.  
-> Built with ❤️ by Team Xplore (4 members) as a **College Major Project** — blending innovation, AI, and real-world travel assistance.
+> Built with ❤️ by Team XploreMate as a **College Major Project** — blending innovation, AI, and real-world travel assistance.
 
 ---
 
