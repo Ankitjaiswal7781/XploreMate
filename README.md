@@ -43,9 +43,7 @@
 - [🌟 Overview](#-overview)
 - [🧠 Features](#-features)
 - [🧩 Tech Stack](#-tech-stack)
-- [⚙️ Project Architecture](#️-project-architecture)
 - [🗺️ Modules & Highlights](#️-modules--highlights)
-- [🖼️ Screenshots](#️-screenshots)
 - [💡 AI Integration (RAG Chatbot)](#-ai-integration-rag-chatbot)
 - [🔐 Authentication & Security](#-authentication--security)
 - [💳 Stripe Integration](#-stripe-integration)
@@ -185,8 +183,13 @@ cd ../server && npm install
 
 # Start both servers
 npm run dev
+```
 
-📫 Feedback & Support
+---
+
+
+
+## 📫 Feedback & Support
 
 💬 Got feedback or want to collaborate?
 Feel free to connect with us via:
