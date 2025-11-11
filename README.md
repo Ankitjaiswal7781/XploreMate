@@ -1,4 +1,4 @@
-# 🌍✨ XploreMate — Your Ultimate Travel Companion
+# XploreMate — Your Ultimate Travel Companion
 
 ### 🏠 Home Page
 | ![Home Page 1](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Home%20Page%201.png) | ![Home Page 2](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Home%20Page%202.png) |
@@ -75,9 +75,8 @@ It offers a seamless experience for:
 ✅ **Instant Booking** — Book tours or guides in a few clicks with Stripe checkout  
 ✅ **Personalized Recommendations** — Powered by AI (RAG Chain with Llama 3 + HuggingFace Embeddings)  
 ✅ **Secure Login & JWT Auth** — User and guide authentication with email verification  
-✅ **Responsive Design** — Perfectly optimized for mobile, tablet, and desktop  
-✅ **Review & Ratings System** — Genuine traveler feedback system  
-✅ **Admin Panel (Optional)** — Manage users, bookings, and services  
+✅ **Responsive Design** — Perfectly optimized for mobile, tablet, and desktop 
+✅ **Admin Panel** — Manage users, bookings, and services  
 ✅ **Real-time Chatbot Support** — Ask travel-related queries powered by AI  
 
 ---
@@ -93,7 +92,7 @@ It offers a seamless experience for:
 
 ### ⚙️ Backend
 - **Node.js + Express.js**
-- **MongoDB** with Mongoose ORM
+- **MongoDB** for database
 - **Stripe API** for secure payments
 - **JWT + Bcrypt** for authentication
 - **LangChain + HuggingFace + Groq (Llama 3)** for the AI chatbot
@@ -108,37 +107,12 @@ It offers a seamless experience for:
 
 ## ⚙️ Project Architecture
 
-
-XploreMate/
-│
-├── client/ # React Frontend (Vite + Tailwind)
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── store/
-│ │ └── App.tsx
-│ └── .env
-│
-├── server/ # Node + Express Backend
-│ ├── controller/
-│ ├── models/
-│ ├── routes/
-│ ├── chatbot/
-│ ├── utils/
-│ └── .env
-│
-├── data/ # Knowledge base for RAG
-│ └── knowledge.txt
-│
-└── README.md
-
-
 ---
 
 ## 🗺️ Modules & Highlights
 
 ### 👤 User Module
-- Sign up, verify email, and login securely  
+- Sign up, Login, verify email, forgot password and login securely  
 - Explore guides and book them instantly  
 - View booking history and status  
 
@@ -156,27 +130,6 @@ XploreMate/
 - Integrated with **Stripe Checkout Sessions**
 - Generates dynamic line items for selected services  
 - Updates booking status after successful payment  
-
----
-
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-![Home Page](https://github.com/Ankitjaiswal7781/XploreMate/assets/home.png)
-
-### ✈️ Explore Guides
-![Explore Guides](https://github.com/Ankitjaiswal7781/XploreMate/assets/guides.png)
-
-### 💬 AI Chatbot
-![Chatbot](https://github.com/Ankitjaiswal7781/XploreMate/assets/chatbot.png)
-
-### 💳 Payment Checkout
-![Payment Checkout](https://github.com/Ankitjaiswal7781/XploreMate/assets/payment.png)
-
-### 📅 Booking Summary
-![Booking Summary](https://github.com/Ankitjaiswal7781/XploreMate/assets/booking.png)
-
-*(You can replace these URLs with your actual screenshots after uploading them to your GitHub repo in `/assets` folder.)*
 
 ---
 
@@ -212,9 +165,9 @@ XploreMate/
 | Name | Role | Contribution |
 |------|------|---------------|
 | **Ankit Kumar** | Full Stack Developer | Frontend + Backend + AI Integration |
-| **Member 2** | UI/UX Developer | Responsive UI & Tailwind Styling |
-| **Member 3** | Backend Developer | API & Database Design |
-| **Member 4** | Tester & Documentation | Testing, Deployment & SRS/Docs |
+| **Aditya Dearwal** | Backend Developer | Responsive UI & Tailwind Styling |
+| **Dhruvansh Agrawal** | Frontend Developer | Database Design |
+| **Ayush Vadadoriya** | Documentation | Testing & SRS/Docs |
 
 ---
 
@@ -242,19 +195,15 @@ npm run dev
 💬 Got feedback or want to collaborate?
 Feel free to connect with us via:
 
-📧 ankitkumar@example.com
+📧 ankitjais7781@gmail.com
 
-🌐 LinkedIn Profile
+🌐 https://www.linkedin.com/in/ankitjaiswal7781/
 
 🐙 GitHub: Ankitjaiswal7781
 
 ⭐ If you like this project, don’t forget to star the repo and share it!
 
-"Travel smarter, not harder — with XploreMate 🌏💫"
+"Travel smarter, not harder — with XploreMate"
 
 
 ---
-
-Would you like me to:
-- 🖼️ Generate **custom banner + section images** (like Home, Booking, Chatbot, etc.) for this README?
-That would make your GitHub page look stunning and professional.
