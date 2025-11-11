@@ -161,8 +161,8 @@ It offers a seamless experience for:
 | Name | Role | Contribution |
 |------|------|---------------|
 | **Ankit Kumar** | Full Stack Developer | Frontend + Backend + AI Integration |
-| **Aditya Dearwal** | Backend Developer | Responsive UI & Tailwind Styling |
-| **Dhruvansh Agrawal** | Frontend Developer | Database Design |
+| **Aditya Dearwal** | Frontend Developer | Responsive UI & Tailwind Styling |
+| **Dhruvansh Agrawal** | Backend Developer | Database Design |
 | **Ayush Vadadoriya** | Documentation | Testing & SRS/Docs |
 
 ---
@@ -201,5 +201,3 @@ Feel free to connect with us via:
 
 "Travel smarter, not harder — with XploreMate"
 
-
----
