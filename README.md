@@ -7,6 +7,31 @@
 
 ---
 
+### 💻 Frontend Views
+| ![Frontend 1](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Frontend%201.png) | ![Frontend 2](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Frontend%202.png) |
+|:--:|:--:|
+| **Frontend UI 1** | **Frontend UI 2** |
+
+---
+
+### 💬 Chatbot Assistant
+| ![Chatbot UI](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Chatbot%20UI.png) |
+|:--:|
+| **AI Chatbot Interface — Ask travel questions and get intelligent responses** |
+
+---
+
+### 🔐 Login Page
+| ![Login Page](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/login.png) |
+|:--:|
+| **Secure Login for Users and Guides** |
+
+---
+
+### 📍 Footer Section
+| ![Footer Section](https://github.com/Ankitjaiswal7781/XploreMate/blob/main/Footer%20Section.png) |
+|:--:|
+| **Footer Section with Navigation & Contact Info** |
 
 > **XploreMate** is a modern full-stack travel platform that connects **travelers** with **local guides** to make every journey effortless, personalized, and unforgettable.  
 > Built with ❤️ by Team XploreMate as a **College Major Project** — blending innovation, AI, and real-world travel assistance.
