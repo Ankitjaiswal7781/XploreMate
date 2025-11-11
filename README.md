@@ -194,11 +194,11 @@ npm run dev
 💬 Got feedback or want to collaborate?
 Feel free to connect with us via:
 
-📧 ankitjais7781@gmail.com
+📧 Email: ankitjais7781@gmail.com
 
-🌐 https://www.linkedin.com/in/ankitjaiswal7781/
+🌐 Linkedin: https://www.linkedin.com/in/ankitjaiswal7781/
 
-🐙 GitHub: Ankitjaiswal7781
+🐙 GitHub: https://github.com/Ankitjaiswal7781
 
 ⭐ If you like this project, don’t forget to star the repo and share it!
 
